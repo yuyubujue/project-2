@@ -6,10 +6,10 @@ Task1
 1. Our team has chosen to build a blockchain application for in the Intellectual Property (IP) Rights Management domain.
 
 
-2. Our application will solve the problem of transparency in ownership of IP rights and also transfer of IP rights.
+2. Intellectual property is an intangible asset representing a novel creative idea belonging to an individual or company, our group is interested in how this kind of asset could be represented in digital form on a blockchain. IP is crucial for incentivizing innovation and protecting creative work, our group recognises that there are inefficiencies with creating, owning and transacting IP which we believe can be mitigated by leveraging blockchain.
 
 
-3. Three Challenges
+3. **Three Challenges**
 
 
 IP Rights require publicly provable ownership in order to reduce ownership disputes.
@@ -31,7 +31,7 @@ Royalty Payments are negotiated though direct agreements between Owner and Licen
 - Our application can create a market for licencing IP and automating royalty payment process.
 
     
-4. Three Functional Requirements:
+4. **Three Functional Requirements:**
 
 1.Trading system. The owner of IP can sell their IP and users can buy IP from the owner as well.
 
@@ -39,7 +39,7 @@ Royalty Payments are negotiated though direct agreements between Owner and Licen
 
 3.A voting phrase that to decide if register the IP in the system. Users can apply to register their IP, and authorized people can vote. If the IP got more than half, the IP could be registered into the system.
 
-3 Non-Functional Requirements
+**3 Non-Functional Requirements**
 
 1.We will apply signature in order to increase the security of the whole system.
 
