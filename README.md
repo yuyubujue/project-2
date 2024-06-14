@@ -32,7 +32,7 @@ Royalty Payments are negotiated though direct agreements between Owner and Licen
 - The system can trace usage data to secure fair and accurate royalty distribution.
 
     
-4. **Three Functional Requirements:**
+4 **Three Functional Requirements:**
 
 1. Trading system: The owner of IP can sell their IP and users can buy IP from the owner as well.
 
@@ -40,7 +40,7 @@ Royalty Payments are negotiated though direct agreements between Owner and Licen
 
 3. IP Registration and Governance: A voting phrase that to decide if register the IP in the system. Users can apply to register their IP, and authorized people can vote. If the IP got more than half, the IP could be registered into the system.
 
-**5 Non-Functional Requirements**
+5 **Three Non-Functional Requirements**
 
 1. We will apply digital signature in order to increase the security of the whole system. Multi-factor Authentication and consortium blockchain models can be considered for enhanced control on system.
 
