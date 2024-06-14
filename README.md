@@ -29,20 +29,21 @@ IP owners have difficulty trading their property in a liquid market.
 Royalty Payments are negotiated though direct agreements between Owner and Licencee.
 - Smart contracts can standardise payment mechanism for usage of Intellectual Property
 - Our application can create a market for licencing IP and automating royalty payment process.
+- The system can trace usage data to secure fair and accurate royalty distribution.
 
     
 4. **Three Functional Requirements:**
 
-1.Trading system. The owner of IP can sell their IP and users can buy IP from the owner as well.
+1. Trading system: The owner of IP can sell their IP and users can buy IP from the owner as well.
 
-2.Auction system. IP holders can auction their IP through this system. Holders can set the starting price and the duration.
+2. Auction system: IP holders can auction their IP through this system. Holders can set the starting price and the duration.
 
-3.A voting phrase that to decide if register the IP in the system. Users can apply to register their IP, and authorized people can vote. If the IP got more than half, the IP could be registered into the system.
+3. IP Registration and Governance: A voting phrase that to decide if register the IP in the system. Users can apply to register their IP, and authorized people can vote. If the IP got more than half, the IP could be registered into the system.
 
-**3 Non-Functional Requirements**
+**5 Non-Functional Requirements**
 
-1.We will apply signature in order to increase the security of the whole system.
+1. We will apply digital signature in order to increase the security of the whole system. Multi-factor Authentication and consortium blockchain models can be considered for enhanced control on system.
 
-2.We need to limit users to access primary functions in order to increase the usability of the whole system. For example, users can only register 3 IP in one day.
+2. We need to limit users to access primary functions in order to increase the usability of the whole system. For example, users can only register 3 IP in one day.
 
-3.Each part of the system should have completed testing capabilities, including unit tests, integration tests, and system tests.
+3. Each part of the system should have completed testing capabilities, including unit tests, integration tests, and system tests.
